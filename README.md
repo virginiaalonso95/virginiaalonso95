@@ -1,16 +1,18 @@
-## Hi there 👋
+👤 Name:Virginia Elizabeth Alonso Herrera.
+😄 Pronouns: She/Her
+📍 Location: Monterrey,Nuevo León Mexíco 🇲🇽
+📣 Languages:  Spanish
+Hola 👋🏻, bienvenido a mi perfil.
 
-<!--
-**virginiaalonso95/virginiaalonso95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apasionada por la tecnología y el aprendizaje constante,Licenciada en Infomática Administrativa. en constante proceso de crecimiento. Me enorgullece mi enfoque autodidacta y mi perseverancia. Mi verdadera pasión va más allá de la codificación: me impulsa la misión de cerrar la brecha de género en la tecnología.
 
-Here are some ideas to get you started:
+    Disfruto compartiendo mi conocimiento y acompañando a otras mujeres en su aprendizaje.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Frameworks y herramientas
+
+Listado de tecnologías que uso .
+
+css3 html5 javascript  
+
+<div align="center">
+  
